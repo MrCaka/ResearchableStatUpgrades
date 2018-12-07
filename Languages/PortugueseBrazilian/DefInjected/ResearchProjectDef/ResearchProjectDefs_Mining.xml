@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mining: Occupies X value 0 -->
+
+  <AdvMiningI.label>Picaretas Pneumáticas</AdvMiningI.label>
+  <AdvMiningI.description>As escolhas do mineiro são 10% mais eficazes. Chamado de Picaretas Pneumáticas por uma questão de nostalgia.</AdvMiningI.description>
+
+  <AdvMiningII.label>Mineração Avançada II</AdvMiningII.label>
+  <AdvMiningII.description>Outras melhorias na mineração significam que as escolhas de mineiros são 7,5% mais efetivas.</AdvMiningII.description>
+
+  <AdvMiningIII.label>Mineração Avançada III</AdvMiningIII.label>
+  <AdvMiningIII.description>Melhorias na eletrônica significam que as escolhas de mineiros são 7,5% mais efetivas e produzem 7,5% mais materiais por mina.</AdvMiningIII.description>
+
+  <AdvMiningIV.label>Mineração Avançada IV</AdvMiningIV.label>
+  <AdvMiningIV.description>Outras melhorias na mineração de precisão significam que as picaretas de mineiros são 12,5% mais efetivas e produzem mais 10% a mais de materiais por mina.</AdvMiningIV.description>
+
+
+</LanguageData>

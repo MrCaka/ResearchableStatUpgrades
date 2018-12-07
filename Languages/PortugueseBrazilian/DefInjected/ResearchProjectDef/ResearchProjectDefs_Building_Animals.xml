@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnimalsI.label>Animais I</AnimalsI.label>
+  <AnimalsI.description>Velocidade de coleta de animais aumentada em 5%. A chance de produção de animais também aumentou em 2,5%.</AnimalsI.description>
+
+  <AnimalsII.label>Animais II</AnimalsII.label>
+  <AnimalsII.description>A velocidade de coleta de animais aumentou em mais 5%. A chance de rendimento de animais também aumentou em mais 5%.</AnimalsII.description>
+
+  <ConstructionI.label>Construção I</ConstructionI.label>
+  <ConstructionI.description>Aumenta a velocidade de construção em 5%.</ConstructionI.description>
+
+  <ConstructionII.label>Construção II</ConstructionII.label>
+  <ConstructionII.description>A velocidade de construção aumentou em 7,5% e o aumento de 5% na chance de sucesso na construção.</ConstructionII.description>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Psychology: (Courtesy of KingSihv) -->
+
+  <Psychology.label>psicologia</Psychology.label>
+  <Psychology.description>Capacidade de negociação aumentada em 7,5%. Isso afeta a velocidade do recrutamento de prisioneiros, o impacto nas relações entre facções ao dar presentes e o resultado das negociações de paz.</Psychology.description>
+
+
+  <!-- Meat cut charts: (Courtesy of KingSihv) -->
+
+  <MeatCutCharts.label>Tabela de corte de carne</MeatCutCharts.label>
+  <MeatCutCharts.description>Aprenda como cortar a carne de animais de forma eficiente. Quantidade de carne aumentou 12,5%.</MeatCutCharts.description>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medical research: Courtesy of KingSihv -->
+
+  <MedicalI.label>Médica I</MedicalI.label>
+  <MedicalI.description>Operação médica e velocidade tendencial aumentada em 5%. Medical tend quality e success chance também aumentaram em 2,5%.</MedicalI.description>
+
+  <MedicalII.label>Médica II</MedicalII.label>
+  <MedicalII.description>Operação médica e tend velocidade aumentada em 7,5%. Medical tend quality e success chance também aumentaram 5%.</MedicalII.description>
+
+
+  <!-- Combat: courtesy of Swenzi -->
+
+  <CombatI.label>combate I</CombatI.label>
+  <CombatI.description>Melhora a precisão de combate. A precisão dos atiradores é aumentada em 5%, e as chances de acerto e esquiva aumentam em 5%.</CombatI.description>
+
+  <CombatII.label>combate II</CombatII.label>
+  <CombatII.description>Melhora a agilidade de combate. Atingir o fator de atraso é reduzido em 5%, e a chance de acerto e esquiva melee aumenta ainda mais em 5%.</CombatII.description>
+
+
+</LanguageData>

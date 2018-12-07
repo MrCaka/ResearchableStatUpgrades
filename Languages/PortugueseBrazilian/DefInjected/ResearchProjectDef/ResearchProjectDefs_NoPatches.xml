@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NutrientResynthesis.label>Ressíntese de Nutrientes</NutrientResynthesis.label>
+  <NutrientResynthesis.description>Dispensadores de pasta de nutrientes consomem 16,7% menos comida por refeição produzida. A antiga pesquisa foi de 10%, mas a mudança seria muito insignificante.</NutrientResynthesis.description>
+
+
+  <!-- Nutrient flavoring: name from rageage001 -->
+
+  <NutrientFlavoring.label>Aromatizante Nutritivo</NutrientFlavoring.label>
+  <NutrientFlavoring.description>Dispensadores de pasta de nutrientes agora produzem aroma artificial, reduzindo o debuff de humor ao comê-lo de -4 a -2.</NutrientFlavoring.description>
+
+  <GunTurretCooling.label>Resfriamento de torreta de disparo</GunTurretCooling.label>
+  <GunTurretCooling.description>As mini-torretas disparam quatro tiros numa explosão em vez de três.</GunTurretCooling.description>
+
+
+  <!-- Scanner Efficiency: Courtesy of KingSihv -->
+
+  <ScannerEfficiency.label>Eficiência do Scanner</ScannerEfficiency.label>
+  <ScannerEfficiency.description>O scanner mineral de longo alcance leva metade do tempo (15 dias) para detectar um recurso distante. No entanto, o seu alcance é consequentemente aumentado para 45 telhas.</ScannerEfficiency.description>
+
+
+</LanguageData>

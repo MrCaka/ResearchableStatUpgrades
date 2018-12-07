@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ProductivityI.label>Produtividade I</ProductivityI.label>
+  <ProductivityI.description>Existem algumas coisas que uma colônia pode fazer para melhorar sua produtividade. Melhora a velocidade de trabalho global em 5%.</ProductivityI.description>
+
+  <ProductivityII.label>Produtividade II</ProductivityII.label>
+  <ProductivityII.description>Melhora a velocidade de trabalho global em mais 5%.</ProductivityII.description>
+
+  <ProductivityIII.label>Produtividade III</ProductivityIII.label>
+  <ProductivityIII.description>Melhora a velocidade de trabalho global em mais 10% e a velocidade de movimento em 5%.</ProductivityIII.description>
+
+  <ProductivityIV.label>Produtividade IV</ProductivityIV.label>
+  <ProductivityIV.description>Melhora a velocidade de trabalho global em mais 10% e aumenta a velocidade em 10%.</ProductivityIV.description>
+
+  <ProductivityV.label>Produtividade V</ProductivityV.label>
+  <ProductivityV.description>Melhora a velocidade de trabalho global em mais 10% e aumenta a velocidade em 10%.</ProductivityV.description>
+
+  <ProductivityRepeatable.label>Produtividade (Repetivel)</ProductivityRepeatable.label>
+  <ProductivityRepeatable.description>Toda vez que você pesquisar isso, o fator de velocidade de trabalho global será melhorado em 1% e a velocidade de movimento em 1%. Esta pesquisa é repetível, e aumentará em custo em 20% toda vez que você terminar para o equilíbrio. Número de vezes que você repetiu esta pesquisa: 0</ProductivityRepeatable.description>
+
+
+</LanguageData>

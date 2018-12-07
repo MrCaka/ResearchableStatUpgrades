@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mining (Tiered 4)
+    Growing (Tiered 4)
+    Animal husbandry (Tiered 2)
+    Building (Tiered 2)
+	Medical (Single)
+	Global work speed (Tiered after every tier?) -->
+
+  <StatUpgrades.label>atualizações de estatísticas</StatUpgrades.label>
+
+
+</LanguageData>
